@@ -1,6 +1,6 @@
 #  A Few Scrapy Projects
 
-## Beginnings of Some Hefty Scraping
+## The Beginnings of Some Hefty Scraping
 * This is my collection of web scraping projects, right now entirely through the Scrapy framework.
 * Currently all the projects are other people's work, though there will be personalized touches in the future. The project is almost entirely via Scrapy regardless.
 * All scraped websites will be with the aim of gathering data for the still-fetal [Election Mecca](http://electionmecca.com), which will primarily focus on polical prediction market data.
