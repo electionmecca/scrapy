@@ -1,5 +1,3 @@
 #  A Few Scrapy Projects
 
-## The Beginnings of Some Dec Scraping
-This is my collection of web scraping projects, right now entirely through the Scrapy framework.
-All of these projects are from others, to be joined by additional projects of my own soon.
+This is my collection of web scraping projects, right now entirely through the Scrapy framework. At the moment, each of these scrapers is thanks to the work of others.
