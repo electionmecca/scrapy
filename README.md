@@ -1,2 +1,2 @@
 # Scrapy Projects
-A collection ofweb scraping projects using the Scrapy framework.
+A collection of web scraping projects using the Scrapy framework.
